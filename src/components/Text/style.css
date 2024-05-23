@@ -1,0 +1,25 @@
+.text_p {
+    color: #0000008C;
+    font-size: 14px;
+}
+
+.text_titulo1 {
+    color: #0000008C;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.text_titulo2 {
+    color: #0000008C;
+    font-size: 16px;
+}
+
+.text_titulo3 {
+    color: #0000008C;
+    font-size: 15px;
+}
+
+.text_label {
+    color: #0000008C;
+    font-size: 12px;
+}
