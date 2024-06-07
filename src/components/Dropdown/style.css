@@ -1,0 +1,28 @@
+.dropdown-container {
+    display: inline-block;
+    position: relative;
+    font-family: Arial, sans-serif;
+  }
+  
+  .dropdown-select {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: url('https://static.thenounproject.com/png/1123247-200.png') no-repeat right 10px center;
+    background-size: 15px;
+  }
+  
+  .dropdown-select:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  .dropdown-option {
+    padding: 10px;
+  }
+  
