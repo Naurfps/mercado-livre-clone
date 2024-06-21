@@ -1,0 +1,10 @@
+.container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.slide-item {
+    width: 20%;
+    object-fit: cover;
+}
