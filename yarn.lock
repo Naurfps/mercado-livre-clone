@@ -9020,6 +9020,11 @@
     "picocolors" "^1.0.0"
     "stable" "^0.1.8"
 
+"swiper@^11.1.4":
+  "integrity" "sha512-1n7kbYJB2dFEpUHRFszq7gys/ofIBrMNibwTiMvPHwneKND/t9kImnHt6CfGPScMHgI+dWMbGTycCKGMoOO1KA=="
+  "resolved" "https://registry.npmjs.org/swiper/-/swiper-11.1.4.tgz"
+  "version" "11.1.4"
+
 "symbol-tree@^3.2.4":
   "integrity" "sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw=="
   "resolved" "https://registry.npmjs.org/symbol-tree/-/symbol-tree-3.2.4.tgz"
